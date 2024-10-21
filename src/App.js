@@ -1,5 +1,7 @@
 import React from 'react';
 import BonoboParagraph from './text-manipulation';
+import WeatherInfo from './components/WeatherInfo';
+
 function App() {
   return (
     <div className="App">
@@ -8,6 +10,7 @@ function App() {
       </header>
       <main className="container mx-auto mt-8">
         <BonoboParagraph />
+        <WeatherInfo />
       </main>
     </div>
   );
