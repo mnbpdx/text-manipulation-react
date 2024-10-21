@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Local Deployment Instructions
 
-Follow these steps to run your React app locally:
+Follow these steps to run this React app locally:
 
 1. **Clone the repository**
 
