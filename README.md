@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image of the app; a paragraph of text with three buttons below to manipulate the text](image.png)
+
 ## Local Deployment Instructions
 
 Follow these steps to run this React app locally:
